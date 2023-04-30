@@ -1,0 +1,14 @@
+{
+  "homepage": "https://Louk342.github.io/home",
+  "name": "louk342.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My Own homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
